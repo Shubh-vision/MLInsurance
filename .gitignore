@@ -1,0 +1,15 @@
+
+.env
+.venv
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+
+.vscode/
+.vscode
+MLInsurance.egg-info/
+MLInsurance.egg-info
+.MLInsurance.egg-info
