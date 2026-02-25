@@ -7,7 +7,7 @@ ENV/
 venv.bak/
 env.bak/
 
-
+.artifacts
 .vscode/
 .vscode
 MLInsurance.egg-info/

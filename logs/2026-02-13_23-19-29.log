@@ -1,0 +1,2 @@
+[2026-02-13 23:19:29,398] [Line:7] InsuranceProjectLogger - INFO - Application started
+[2026-02-13 23:19:29,400] [Line:25] InsuranceProjectLogger - ERROR - Error occurred in script [C:\Users\Shubham\Projects\Insurance Project\app.py] at line [8] : division by zero
