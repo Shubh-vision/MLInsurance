@@ -13,3 +13,9 @@ env.bak/
 MLInsurance.egg-info/
 MLInsurance.egg-info
 .MLInsurance.egg-info
+.logs
+.__pycache__
+venv/
+artifacts/
+__pycache__/
+
