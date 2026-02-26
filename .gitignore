@@ -18,4 +18,5 @@ MLInsurance.egg-info
 venv/
 artifacts/
 __pycache__/
+logs/
 
