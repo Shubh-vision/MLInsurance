@@ -19,4 +19,4 @@ venv/
 artifacts/
 __pycache__/
 logs/
-
+catboost_info/
