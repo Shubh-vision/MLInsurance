@@ -4,4 +4,9 @@ seaborn
 matplotlib
 catboost
 xgboost
+fastapi
+uvicorn
+scikit-learn
+joblib
+pydantic
 -e .
